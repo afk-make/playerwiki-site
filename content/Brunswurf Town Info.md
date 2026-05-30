@@ -1,8 +1,8 @@
 # Brunswurf
-A small town near [[Wurchester City Info]].
+A small town near [[Wurchester City Info|Wurchester]].
 
-<img src="WikiAssets/BrunswurfTownMap.png">
+![[BrunswurfTownMap.png]]
 
 Information:
-The Mayor is [[Lord Halven Briarwell Info]].
+The Mayor is [[Lord Halven Briarwell Info|Lord Halven Briarwell]].
 
