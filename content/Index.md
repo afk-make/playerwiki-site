@@ -6,7 +6,9 @@
 - [[Brunswurf Town]]
 - [[Wurchester City]]
 
+## Places
+- [[The Broken Cross]] tavern in [[Brunswurf Town]]
 ## Important NPCs
-- [[Lord Halven Briarwell Info]]
+- [[Edric Malvern]] - runs [[The Broken Cross]] tavern
 
 
