@@ -1,4 +1,4 @@
-# Lord Halven Briarwell
+
 Head of the family at Fairbrook Manor  in [[Brunswurf Town]]. 
 
 
