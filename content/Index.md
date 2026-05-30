@@ -3,8 +3,8 @@
 ## News
 - [[News Headlines]]
 ## Locations
-- [[Brunswurf Town Info|Brunswurf]]
-- [[Wurchester City Info]]
+- [[Brunswurf Town]]
+- [[Wurchester City]]
 
 ## Important NPCs
 - [[Lord Halven Briarwell Info]]

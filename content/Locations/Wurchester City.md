@@ -1,5 +1,4 @@
-# Wurchester
-A large city near [[Brunswurf Town Info]].
+A large city near [[Brunswurf Town]].
 
 <img src="WikiAssets/WurchesterCityMap.png">
 
