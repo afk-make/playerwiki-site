@@ -1,7 +1,7 @@
 # Campaign Wiki
 
 ## Locations
-- [[Brunswurf Town Info]]
+- [[Brunswurf Town Info|Brunswurf]]
 - [[Wurchester City Info]]
 
 ## Important NPCs
