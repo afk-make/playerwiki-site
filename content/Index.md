@@ -1,4 +1,7 @@
-# Bromsgrove D&D
+---
+title: "Bromsgrove D&D"
+---
+
 ![[BrunswurfArms.png]]
 
 ## News
