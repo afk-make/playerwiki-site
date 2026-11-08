@@ -1,4 +1,5 @@
-# Campaign Wiki
+# Bromsgrove D&D
+![[BrunswurfArms.png]]
 
 ## News
 - [[News Headlines]]
