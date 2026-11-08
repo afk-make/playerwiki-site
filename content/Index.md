@@ -4,9 +4,10 @@ title: "Bromsgrove D&D"
 
 ![[BrunswurfArms.png]]
 
-Test
+
 ## News
-- [[News Headlines]]
+- [[News Headlines|New Bramhold Library Progress]]
+
 ## Locations
 - [[Brunswurf Town]]
 - [[Wurchester City]]
