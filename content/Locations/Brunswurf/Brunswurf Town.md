@@ -7,7 +7,7 @@ Information:
 - B - [[The Hound & Phoenix]] tavern and inn
 - C - [[The Golden Ring Inn]] tavern and inn
 - D - [[The Blood Cross]] tavern
-
+- E - [[The Hag's Head]] tavern and inn
 
 
 
