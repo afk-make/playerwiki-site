@@ -1,4 +1,4 @@
-An old tavern in [[Brunswurf Town Map|Brunswurf]] located at No. 8 King's Way. Run by [[Edric Malvern]].
+An old tavern in [[Brunswurf Town]] located at No. 8 King's Way. Run by [[Edric Malvern]].
 
 ![[LI002 - TheBrokenCross.png]]
 
