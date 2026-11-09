@@ -8,13 +8,12 @@ title: "Bromsgrove D&D"
 ## News
 - [[News Headlines|New Bramhold Library Progress]]
 
+## Maps
+- [[Kingdom of Arvenia]]
+- [[Wurchester Regional Map]]
+
 ## Locations
 - [[Brunswurf Town]]
 - [[Wurchester City]]
-
-## Places
-- [[The Broken Cross]] tavern in [[Brunswurf Town]]
-## Important NPCs
-- [[Edric Malvern]] - runs [[The Broken Cross]] tavern
 
 
