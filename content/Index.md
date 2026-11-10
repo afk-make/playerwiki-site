@@ -7,11 +7,10 @@ title: "Bromsgrove D&D"
 
 ## News
 - [[News Headlines|New Bramhold Library Progress]]
-
-## Maps
+## History
 - [[Kingdom of Arvenia]]
+## Maps
 - [[Wurchester Regional Map]]
-
 ## Locations
 - [[Brunswurf Town]]
 - [[Wurchester City]]
