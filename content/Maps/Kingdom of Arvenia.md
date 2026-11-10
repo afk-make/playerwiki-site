@@ -127,3 +127,7 @@ In some cities, these disagreements have led to public demonstrations, political
 The matter has become an increasingly prominent subject of public debate, reflecting wider differences of opinion concerning Arvenia's relationship with the peoples beyond its borders.
 
 For most inhabitants, however, daily life continues much as it has for generations, with people of different backgrounds living, working and trading alongside one another throughout the kingdom.
+
+[[Index|Home]]
+
+
